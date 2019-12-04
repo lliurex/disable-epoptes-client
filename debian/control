@@ -1,0 +1,16 @@
+Source: disable-epoptes-client
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: debhelper (>= 9.0)
+Standards-Version: 4.1.2
+
+Package: disable-epoptes-client
+Architecture: all
+Depends: ${misc:Depends}
+Provides: epoptes-client
+Breaks: epoptes-client
+Replaces: epoptes-client
+Description: Package to remove epoptes-client
+ Package to mask the installating of epoptes-client. 
+

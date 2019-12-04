@@ -1,0 +1,5 @@
+disable-epoptes-client (0.1) bionic; urgency=medium
+
+  * Initial release.
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 04 Dec 2019 09:59:42 +0100
